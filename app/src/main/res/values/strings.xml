@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Xpress</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="left">
+        <item>People around</item>
+        <item>Timeline</item>
+        <item>Profile</item>
+        <item>likes</item>
+        <item>Crushes</item>
+        <item>Signout</item>
+
+    </string-array>
+
+    <string-array name="right">
+        <item>My account</item>
+        <item>Profile settings</item>
+        <item>Help</item>
+
+    </string-array>
+
+    <string name="peoplearound">People around</string>
+    <string name="timeline">Timeline</string>
+    <string name="profile">Profile</string>
+    <string name="likes">Likes</string>
+    <string name="crushes">Crushes</string>
+    <string name="signout">Signout</string>
+    <string name="myaccount">My account</string>
+    <string name="profilesettings">Profile settings</string>
+    <string name="help">Help</string>
+
+
+</resources>
